@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4198391520">
+    <data-source source="LOCAL" name="Rails dm-tool: development" uuid="d17390c0-3eb7-4c6d-8728-cf7b2579e7eb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vagrant_development</jdbc-url>
+      <user-name>vagrant</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails dm-tool: test" uuid="e68e3484-4268-4576-8c32-7e2f833f79fd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vagrant_test</jdbc-url>
+      <user-name>vagrant</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails dm-tool: production" uuid="e3884a82-d240-4d5f-ac9e-a2405c60cc07">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vagrant_production</jdbc-url>
+      <user-name>vagrant</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
